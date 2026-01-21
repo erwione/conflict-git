@@ -1,5 +1,5 @@
 function login() {
-    console.log("Login system with username & password");
+    console.log("Login system username & password + OTP");
 }
 
 login();
