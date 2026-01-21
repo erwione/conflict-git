@@ -1,5 +1,5 @@
 function login() {
-    console.log("Login system v1");
+    console.log("Login system with OTP");
 }
 
 login();
